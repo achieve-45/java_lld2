@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be23e7e9-fb51-4c34-9592-2b4e3ae23287" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Strategies/ColWinningStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Strategies/DiagonalWinningStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicTacToe/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicTacToe/Controllers/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe/Controllers/GameController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicTacToe/Models/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe/Models/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicTacToe/Strategies/RowWinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe/Strategies/RowWinningStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicTacToe/Strategies/WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe/Strategies/WinningStrategy.java" afterDir="false" />
-    </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="be23e7e9-fb51-4c34-9592-2b4e3ae23287" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -233,11 +222,15 @@
       </list>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="881" />
     <option name="height" value="733" />
   </component>
+  <component name="ProjectId" id="2eXjOSamrC4mdc7XS4gy9Rkqd2J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -301,13 +294,20 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ProducerConsumerSemaphores" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="TicTacToe.Exceptions" />
@@ -443,6 +443,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -453,6 +461,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704381917207</updated>
+      <workItem from="1712057785954" duration="87000" />
     </task>
     <servers />
   </component>
@@ -520,73 +529,65 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/IntroToOOPs/Client.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Constructors/Client.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Inheritance/Client.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/AbstractClass/Client.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/IntroToThreads/Client3.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MultithreadedMergeSort/Sorter.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/AdderSubtractor/Adder.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ProducerConsumerSemaphores/Client.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DesignPatterns/Singleton/Client.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DesignPatterns/BuilderPattern/Builder.java</url>
           <line>2</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Client.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
